@@ -1,2 +1,2 @@
 # FacebookSwizzling-Swift
-Method Swizzling for the UIActivity and UIActivityViewController in Swift.
+Method Swizzling for UIActivity and UIActivityViewController in Swift.
